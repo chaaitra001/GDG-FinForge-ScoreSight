@@ -12,6 +12,7 @@ ScoreSight is a web-based recommendation system that empowers companies, investo
 - Provides traceable sources for all output through a reference button.
 
 This tool is ideal for:
+
 🏢 Companies looking to improve ESG credibility and sustainability footprint
 
 🏦 Banks or investors screening companies for green loan eligibility
@@ -19,14 +20,14 @@ This tool is ideal for:
 ## 🛠 The Techstack
 ### Frontend:
 HTML, CSS, JavaScript (React)
-    - Clean, intuitive UI for strategy input, dual-option display, and final recommendation
-    - Embedded graph for profitability vs. investment comparison
-    - "Sources" button that reveals ESG and financial reference points
+- Clean, intuitive UI for strategy input, dual-option display, and final recommendation
+- Embedded graph for profitability vs. investment comparison
+- "Sources" button that reveals ESG and financial reference points
 
 ### Backend:
 Python logic to simulate ESG scoring based on inputs
-    - NLP classification to process and understand user-submitted strategies
-    - Custom algorithm to optimise financial investments in sectors based on trained models
+- NLP classification to process and understand user-submitted strategies
+- Custom algorithm to optimise financial investments in sectors based on trained models
 
 ### AI in the Process:
 - Utilized ChatGPT for backend architecture design, prompt engineering, algorithm tuning, and natural language classification
@@ -34,6 +35,7 @@ Python logic to simulate ESG scoring based on inputs
 
 ## 🚀 How to Run It Locally
 ### 1. Clone the repo
+
 bash
 ```
 git clone https://github.com/YOUR_USERNAME/finforge.git
@@ -41,6 +43,7 @@ cd finforge
 ```
 
 ### 2. Backend Setup
+
 bash
 ```
 cd backend
