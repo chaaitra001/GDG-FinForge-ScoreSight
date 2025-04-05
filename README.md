@@ -5,7 +5,7 @@
 
 ##  What It Does
 
-FinForge is a web-based recommendation system that:
+ScoreSight is a web-based recommendation system that:
 - Accepts user input about planned company actions or strategies
 - Suggests **two potential paths** forward
 - Calculates & compares the **ESG score** and **profitability** impact of each
