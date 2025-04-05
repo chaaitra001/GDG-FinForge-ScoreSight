@@ -13,6 +13,7 @@ ScoreSight is a web-based recommendation system that empowers companies, investo
 
 This tool is ideal for:
 🏢 Companies looking to improve ESG credibility and sustainability footprint
+
 🏦 Banks or investors screening companies for green loan eligibility
 
 ## 🛠 The Techstack
@@ -49,6 +50,7 @@ python main.py
 
 ### 3. Frontend Setup
 Just open the following file in your browser:
+
 bash
 ```
 frontend/index.html
@@ -60,7 +62,10 @@ Our team identified a strong correlation between corporate decision-making and s
 
 
 ## Our Team!
-
+Avanthi - 
+Hari - 
+Tharun - 
+Chaaitra - 
 
 
 
