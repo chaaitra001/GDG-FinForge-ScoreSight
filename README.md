@@ -65,9 +65,13 @@ Our team identified a strong correlation between corporate decision-making and s
 
 
 ## Our Team!
+
 Avanthi - 
+
 Hari - 
+
 Tharun - 
+
 Chaaitra - 
 
 
