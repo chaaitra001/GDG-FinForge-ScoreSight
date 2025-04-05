@@ -1,78 +1,70 @@
-# ScoreSight: An ESG & Profitability Strategy Recommender
-An AI-powered tool forged in the fires of FinForge Hackathon 2025 by Team CHAT to help institutions make smart, ESG-aligned financial decisions.
+# Getting Started with Create React App
 
-## 💡 What It Does
-ScoreSight is a web-based recommendation system that empowers companies, investors, and institutions to make data-backed decisions through a dual-analysis framework. Here's how:
-- Accepts user input describing planned company actions or strategic options.
-- Returns two potential growth strategies based on your input.(x)
-- Simulates and compares their ESG scores.
-- Visualises individuals' decisions for profitability
-- Recommends the optimal path that balances impact with financial value.
-- Visualizes the investment vs. profitability relationship using dynamic graphs.
-- Provides traceable sources for all output through a reference button.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This tool is ideal for:
+## Available Scripts
 
-🏢 Companies looking to improve ESG credibility and sustainability footprint
+In the project directory, you can run:
 
-🏦 Banks or investors screening companies for green loan eligibility
+### `npm start`
 
-## 🛠 The Techstack
-### Frontend:
-HTML, CSS, JavaScript (React)
-- Clean, intuitive UI for strategy input, dual-option display, and final recommendation
-- Embedded graph for profitability vs. investment comparison
-- "Sources" button that reveals ESG and financial reference points
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Backend:
-Python logic to simulate ESG scoring based on inputs
-- NLP classification to process and understand user-submitted strategies
-- Custom algorithm to optimise financial investments in sectors based on trained models
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### AI in the Process:
-- Utilized ChatGPT for backend architecture design, prompt engineering, algorithm tuning, and natural language classification
-- Enabled smart interpretation of vague user inputs to generate viable strategies and insights
+### `npm test`
 
-## 🚀 How to Run It Locally
-### 1. Clone the repo
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-bash
-```
-git clone https://github.com/YOUR_USERNAME/finforge.git
-cd finforge
-```
+### `npm run build`
 
-### 2. Backend Setup
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-bash
-```
-cd backend
-pip install -r requirements.txt
-python main.py
-```
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### 3. Frontend Setup
-Just open the following file in your browser:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-bash
-```
-frontend/index.html
-```
+### `npm run eject`
 
-## 🌱 Our Inspiration
-ScoreSight was born during the FinForge Hackathon 2025 hosted by Google Developer Groups (GDG) at NTU. The goal? To harness AI for real-world financial decision-making.
-Our team identified a strong correlation between corporate decision-making and stock price performance, which is significantly influenced by Environmental, Social, and Governance (ESG) scores. In light of this insight, we developed a project that utilizes data compression algorithms to streamline this information, thereby assisting companies in making informed decisions.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Our Team!
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Avanthi - 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Hari - 
+## Learn More
 
-Tharun - 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Chaaitra - 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
