@@ -1,6 +1,3 @@
-# GDG-FinForge
-Repo for the NTU GDG FinForge April 2025
-
 # ScoreSight: ESG & Profitability Strategy Recommender
 
 > A hackathon project that helps companies and institutions make smarter ESG-aligned financial decisions through AI logic and backend strategy simulation.
