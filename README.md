@@ -34,8 +34,6 @@ The tool is designed for:
 **AI in the Process:**
 > The project was built using ChatGPT extensively for backend logic, code generation, and architecture design.
 
----
-
 ## 🖥️ How to Run It (Locally)
 
 ### 1. Clone the repo
