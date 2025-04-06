@@ -2,7 +2,7 @@
   <a href="https://www.chartjs.org/" target="_blank">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="https://www.chartjs.org/"><br/>
   </a>
-    ScoreSIght - The AI platform for companies and institutions to make smarter and responsible financial decisions
+    "Simple yet flexible JavaScript charting for designers & developers"
 </p>
 
 <p align="center">
