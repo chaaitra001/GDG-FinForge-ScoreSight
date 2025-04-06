@@ -36,15 +36,13 @@ Python logic to simulate ESG scoring based on inputs
 ## 🚀 How to Run It Locally
 ### 1. Clone the repo
 
-bash
 ```
-git clone https://github.com/YOUR_USERNAME/finforge.git
-cd finforge
+git clone https://github.com/YOUR_USERNAME/GDG-FinForge-ScoreSight.git
+cd GDG-FinForge-ScoreSight/
 ```
 
 ### 2. Backend Setup
 
-bash
 ```
 cd backend
 pip install -r requirements.txt
@@ -54,7 +52,6 @@ python main.py
 ### 3. Frontend Setup
 Just open the following file in your browser:
 
-bash
 ```
 frontend/index.html
 ```
@@ -64,15 +61,15 @@ ScoreSight was born during the FinForge Hackathon 2025 hosted by Google Develope
 Our team identified a strong correlation between corporate decision-making and stock price performance, which is significantly influenced by Environmental, Social, and Governance (ESG) scores. In light of this insight, we developed a project that utilizes data compression algorithms to streamline this information, thereby assisting companies in making informed decisions.
 
 
-## Our Team!
+## 👥 Our Team!
 
-Avanthi - 
+Avanthi - Frontend and Backend Architect, integrated AI into the platform, Demo Video
 
-Hari - 
+Hari - NLP Engineer and Graph Developer
 
-Tharun - 
+Tharun - Presentation script and UI development
 
-Chaaitra - 
+Chaaitra - Presentation script and UI development
 
 
 
