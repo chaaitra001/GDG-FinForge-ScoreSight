@@ -92,8 +92,6 @@ We discovered a strong correlation between corporate decisions, stock performanc
 ---
 
 ## 🔗 Watch Our Demo Video!
-```
+```md
 [Click me](https://drive.google.com/file/d/1ovopeR8ML-KJ4Ji5tPRcWYNOpPv10Pac/view?usp=drivesdk)
-
-```
 
