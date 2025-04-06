@@ -1,75 +1,99 @@
 # ScoreSight: An ESG & Profitability Strategy Recommender
-An AI-powered tool forged in the fires of FinForge Hackathon 2025 by Team CHAT to help institutions make smart, ESG-aligned financial decisions.
+
+An AI-powered tool forged in the fires of **FinForge Hackathon 2025** by **Team CHAT** to help institutions make smarter, ESG-aligned financial decisions.
+
+---
 
 ## 💡 What It Does
-ScoreSight is a web-based recommendation system that empowers companies, investors, and institutions to make data-backed decisions through a dual-analysis framework. Here's how:
-- Accepts user input describing planned company actions or strategic options.
-- Returns two potential growth strategies based on your input.(x)
-- Simulates and compares their ESG scores.
-- Visualises individuals' decisions for profitability
-- Recommends the optimal path that balances impact with financial value.
-- Visualizes the investment vs. profitability relationship using dynamic graphs.
-- Provides traceable sources for all output through a reference button.
 
-This tool is ideal for:
+**ScoreSight** is a web-based recommendation system that empowers companies, investors, and institutions to make data-backed decisions through a dual-analysis framework. Here's how it works:
 
-🏢 Companies looking to improve ESG credibility and sustainability footprint
+- Accepts user input describing potential strategies or business actions.
+- Simulates and compares the **ESG scores** of two possible directions.
+- Recommends the **optimal path** that balances sustainability with financial value.
+- Visualizes profitability metrics and investment impact using interactive graphs.
+- Provides traceable article sources and financial references for transparency.
 
-🏦 Banks or investors screening companies for green loan eligibility
+Perfect for:
 
-## 🛠 The Techstack
-### Frontend:
-HTML, CSS, JavaScript (React)
-- Clean, intuitive UI for strategy input, dual-option display, and final recommendation
-- Embedded graph for profitability vs. investment comparison
-- "Sources" button that reveals ESG and financial reference points
+🏢 Companies enhancing ESG credibility and sustainability footprint  
+🏦 Banks or investors screening companies for green loan eligibility  
 
-### Backend:
-Python logic to simulate ESG scoring based on inputs
-- NLP classification to process and understand user-submitted strategies
-- Custom algorithm to optimise financial investments in sectors based on trained models
+---
 
-### AI in the Process:
-- Utilized ChatGPT for backend architecture design, prompt engineering, algorithm tuning, and natural language classification
-- Enabled smart interpretation of vague user inputs to generate viable strategies and insights
+## 🛠 The Tech Stack
+
+### ⚙️ Frontend:  
+**HTML, CSS, JavaScript (React)**  
+- Clean, intuitive UI for strategy input, ESG scoring, and comparison  
+- Embedded charts to illustrate profitability vs. investment outcomes  
+- “Sources” button reveals ESG-related article snippets and references  
+
+### 🧠 Backend:  
+**Python (FastAPI or Flask)**  
+- NLP to understand and classify strategy inputs  
+- ESG scoring engine + profitability simulation logic  
+- Integration with article/news scraping APIs  
+
+### 🤖 AI Involvement:  
+- Prompt-engineered NLP model (ChatGPT assisted) for natural input processing  
+- Algorithm tuning and backend flow designed with LLM guidance  
+- Smart interpretation of vague or open-ended user ideas into structured insights  
+
 
 ## 🚀 How to Run It Locally
 ### 1. Clone the repo
 
 ```
-git clone https://github.com/YOUR_USERNAME/GDG-FinForge-ScoreSight.git
-cd GDG-FinForge-ScoreSight/
+
+git clone https://github.com/chaaitra001/GDG-FinForge-ScoreSight.git
+cd GDG-FinForge-ScoreSight
+
 ```
 
 ### 2. Backend Setup
 
 ```
-cd backend
+cd app
 pip install -r requirements.txt
 python main.py
+
 ```
 
 ### 3. Frontend Setup
-Just open the following file in your browser:
+This will run the React frontend locally on http://localhost:3000.
 
 ```
-frontend/index.html
+cd ../react
+npm install
+npm start
+
 ```
 
 ## 🌱 Our Inspiration
-ScoreSight was born during the FinForge Hackathon 2025 hosted by Google Developer Groups (GDG) at NTU. The goal? To harness AI for real-world financial decision-making.
-Our team identified a strong correlation between corporate decision-making and stock price performance, which is significantly influenced by Environmental, Social, and Governance (ESG) scores. In light of this insight, we developed a project that utilizes data compression algorithms to streamline this information, thereby assisting companies in making informed decisions.
 
+**ScoreSight** was born during the **FinForge Hackathon 2025**, hosted by Google Developer Groups (GDG) at NTU.  
+Our goal? To harness the power of **AI to revolutionize financial decision-making** for companies and institutions.
+
+We discovered a strong correlation between corporate decisions, stock performance, and **ESG (Environmental, Social, and Governance)** indicators. Recognizing the complexity of evaluating such multidimensional metrics, we built ScoreSight — an intelligent platform that leverages **AI algorithms and data compression techniques** to simplify insights and support informed, responsible decision-making.
+
+---
 
 ## 👥 Our Team!
 
-Avanthi - Frontend and Backend Architect, integrated AI into the platform, Demo Video
+| Name       | Role & Contributions                                     |
+|------------|----------------------------------------------------------|
+| **Avanthi**  | Frontend & Backend Architect · AI Integration · Demo Video |
+| **Hari**     | NLP Engineer · Graph & Visualization Developer         |
+| **Tharun**   | Presentation Scripting · UI Development                |
+| **Chaaitra** | Presentation Scripting · UI Development                |
 
-Hari - NLP Engineer and Graph Developer
 
-Tharun - Presentation script and UI development
+---
 
-Chaaitra - Presentation script and UI development
+## 🔗 Watch Our Demo Video!
+```
+[Click me](https://drive.google.com/file/d/1ovopeR8ML-KJ4Ji5tPRcWYNOpPv10Pac/view?usp=drivesdk)
 
-
+```
 
